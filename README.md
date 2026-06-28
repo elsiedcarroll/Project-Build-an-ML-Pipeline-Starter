@@ -179,3 +179,8 @@ Please, make sure all steps are using **the same** python version and that you h
 ## License
 
 [License](LICENSE.txt)
+
+
+
+
+My WandB project can be found at: https://wandb.ai/ecarro11-western-governors-university/nyc_airbnb/overview/details
